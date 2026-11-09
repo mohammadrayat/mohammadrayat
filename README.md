@@ -1,132 +1,150 @@
  <div align="center">
 
-# Mohammad Rayat
+# MOHAMMAD RAYAT
 
-### Frontend Engineer · Vue.js · Nuxt · TypeScript
+**Frontend Engineer**
 
-Building scalable web applications, enterprise interfaces, and developer-focused tools.
+`VUE.JS` · `NUXT` · `TYPESCRIPT`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohammad-rayat-6011b6265)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammadrayat817@gmail.com)
-![Location](https://img.shields.io/badge/Location-Yazd%2C%20Iran-555555?style=flat-square)
-![Remote](https://img.shields.io/badge/Remote-Worldwide-16A34A?style=flat-square)
+Building scalable interfaces and engineering reliable frontend systems.
+
+[LinkedIn](https://linkedin.com/in/mohammad-rayat-6011b6265) &nbsp; / &nbsp; [Email](mailto:mohammadrayat817@gmail.com) &nbsp; / &nbsp; [GitHub](https://github.com/mohammadrayat)
+
+Yazd, Iran · Open to Remote Worldwide
 
 </div>
 
 ---
 
-## About Me
+### ABOUT
 
-I'm a Frontend Engineer specializing in **Vue.js, Nuxt 3, and TypeScript**, focused on building maintainable, scalable, and production-grade applications.
+Frontend Engineer focused on building scalable web applications, enterprise interfaces, and reusable developer tools.
 
-My experience goes beyond UI development — I work on frontend architecture, performance optimization, design systems, complex integrations, and developer tooling.
+I work across the frontend engineering lifecycle — from application architecture and design systems to performance optimization, hardware integrations, and production deployments.
 
-- 🚀 **Frontend Ownership:** Sole Frontend Owner of ParsiPost, a nationwide postal logistics platform with 390+ pages, serving 8,000+ branch offices and handling 12,000+ daily parcels.
-- 🎨 **Design Systems:** Core contributor to GamUI, an enterprise Vue 3 component library with 60+ reusable components.
-- ⚡ **Architecture & Performance:** SPA architecture, route-level code splitting, bundle optimization, and large-scale API integrations.
-- 🔌 **Hardware & Integrations:** Barcode scanning, thermal printing, GIS mapping, and payment gateway integrations.
-- 🤖 **AI Engineering:** Using AI coding agents and agentic workflows to accelerate development, testing, and engineering workflows.
-
-Currently interested in challenging frontend engineering roles, especially remote opportunities.
+- **Ownership** — Sole Frontend Owner of a nationwide postal logistics platform.
+- **Architecture** — Large-scale Vue applications, modular systems, and performance optimization.
+- **Design Systems** — Engineering reusable UI infrastructure and component libraries.
+- **Integrations** — Hardware, barcode scanning, GIS, printing, and payment systems.
+- **AI Engineering** — Agentic development workflows and AI-assisted engineering.
 
 ---
 
-## Tech Stack
+### TECHNOLOGIES
 
 <div align="center">
 
-**Frontend & Frameworks**
+**LANGUAGES & FRAMEWORKS**
 
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-555555?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-555555?style=flat-square&logo=nuxt&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-555555?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-555555?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-555555?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-555555?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-555555?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-555555?style=flat-square&logo=tailwindcss&logoColor=white)
+![Quasar](https://img.shields.io/badge/Quasar-555555?style=flat-square&logo=quasar&logoColor=white)
 
-**State Management, Build & Testing**
+**ECOSYSTEM & TOOLING**
 
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-555555?style=flat-square&logo=pinia&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-555555?style=flat-square&logo=vite&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-555555?style=flat-square&logo=storybook&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-555555?style=flat-square&logo=vitest&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-555555?style=flat-square&logo=axios&logoColor=white)
+![OpenAPI](https://img.shields.io/badge/OpenAPI-555555?style=flat-square&logo=openapiinitiative&logoColor=white)
 
-**Tools, DevOps & Integrations**
+**INFRASTRUCTURE & INTEGRATIONS**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Cordova](https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=apachecordova&logoColor=black)
-![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-555555?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-555555?style=flat-square&logo=githubactions&logoColor=white)
+![Cordova](https://img.shields.io/badge/Cordova-555555?style=flat-square&logo=apachecordova&logoColor=white)
+![OpenLayers](https://img.shields.io/badge/OpenLayers-555555?style=flat-square&logo=openlayers&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-555555?style=flat-square&logo=linux&logoColor=white)
 
 </div>
 
 ---
 
-## Featured Projects
+### SELECTED WORK
 
-### 📦 ParsiPost — Enterprise Logistics Platform
+**01 / PARSIPOST**
 
-**Role:** Sole Frontend Owner
+`ENTERPRISE LOGISTICS` · `2025 — PRESENT`
 
-A nationwide postal logistics platform designed to support high-volume parcel operations across thousands of branch offices.
+Sole Frontend Owner
 
-- 390+ application pages and 90+ business features.
-- Supporting 8,000+ branch offices and 12,000+ daily parcels.
-- Built with Vue 3, TypeScript, Pinia, Vite, Quasar, and GamUI.
-- Multi-parcel payment workflows and payment gateway integrations.
-- Advanced barcode scanning and thermal label printing.
-- GIS integrations using OpenLayers.
-- Cordova-based mobile application integration.
+A nationwide postal logistics platform supporting high-volume parcel operations.
 
-### 🎨 GamUI — Enterprise Vue Design System
+| Metric | Scale |
+|:--|--:|
+| Application pages | 390+ |
+| Branch offices | 8,000+ |
+| Daily parcels | 12,000+ |
+| Business features | 90+ |
 
-**Role:** Core Contributor
+**Engineering highlights**
 
-An internal component library designed to standardize UI development across enterprise applications.
+- Vue 3, TypeScript, Pinia, Vite, Quasar and GamUI.
+- Large-scale frontend architecture and feature ownership.
+- Multi-parcel payment workflows and payment integrations.
+- Barcode scanning, thermal printing and GIS mapping.
+- Cordova mobile application integration.
 
-- 60+ reusable and modular Vue 3 components.
+---
+
+**02 / GAMUI**
+
+`DESIGN SYSTEM` · `2024 — PRESENT`
+
+Core Contributor
+
+An enterprise Vue 3 component library designed for reusable, consistent application interfaces.
+
+- 60+ reusable components.
 - TypeScript-first component architecture.
-- Storybook 7 component documentation.
-- Dual ESM / UMD package distribution.
-- Automated type generation using `vue-tsc`.
-- Camera-based barcode scanning with ZXing.
-- SVG sprite and sound notification pipelines.
+- Storybook 7 documentation.
+- Dual ESM / UMD distribution.
+- Automated type generation with `vue-tsc`.
+- ZXing camera barcode scanning.
+- SVG sprite and audio notification pipelines.
 
-### 💎 ExiZar — Gold & Jewelry E-commerce
+---
 
-**Role:** Frontend Engineer · Contract
+**03 / EXIZAR**
 
-A Nuxt-based e-commerce application focused on gold and jewelry trading.
+`E-COMMERCE` · `CONTRACT`
 
-- Nuxt 3 and Vue 3 with SSR.
-- Dynamic gold price calculations.
-- Advanced product filtering by weight and carat.
+Frontend Engineer
+
+Gold and jewelry e-commerce platform built with Nuxt 3 and Vue 3.
+
+- Server-side rendering with Nuxt.
+- Dynamic gold market price calculations.
+- Product filtering by weight and carat.
 - Shopping cart and JWT authentication.
 - Search history and state management.
 
-### 📊 Other Projects
+---
 
-**Yekta Bourse** — Financial dashboard with real-time market data and candlestick charts using ApexCharts.
+**04 / OTHER PROJECTS**
 
-**Yazd Takhfif** — Nuxt-based discount marketplace PWA featuring offline caching and state synchronization.
+**Yekta Bourse** — Real-time financial dashboard with market data feeds and candlestick charts.
+
+**Yazd Takhfif** — Nuxt-based discount marketplace with PWA capabilities and offline synchronization.
 
 ---
 
-## GitHub Analytics
+### GITHUB STATISTICS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohammadrayat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Statistics" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mohammadrayat&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrayat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrayat&layout=compact&theme=graywhite&hide_border=true" alt="Top Languages" />
 
 </div>
 
@@ -134,10 +152,12 @@ A Nuxt-based e-commerce application focused on gold and jewelry trading.
 
 <div align="center">
 
-### Let's Build Something Great.
+**MOHAMMAD RAYAT**
 
-Open to interesting engineering challenges and remote opportunities.
+Frontend Engineering · Vue.js · TypeScript
 
-[LinkedIn](https://linkedin.com/in/mohammad-rayat-6011b6265) · [Email](mailto:mohammadrayat817@gmail.com) · [GitHub](https://github.com/mohammadrayat)
+[LinkedIn](https://linkedin.com/in/mohammad-rayat-6011b6265) &nbsp; · &nbsp; [Email](mailto:mohammadrayat817@gmail.com)
+
+<sub>Designing systems. Engineering experiences.</sub>
 
 </div>
